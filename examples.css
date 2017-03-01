@@ -1,0 +1,157 @@
+#mainNavigation {
+
+	display: block;
+
+font-size: 18px;
+text-align: right;
+
+background-position: 0% 0%;
+box-height: 32.4px;
+box-width: 983.2px;
+}
+
+
+#DIV_1 {
+    box-sizing: border-box;
+    color: rgb(136, 136, 136);
+    float: right;
+    height: 34px;
+    text-size-adjust: 100%;
+    width: 141.425px;
+    column-rule-color: rgb(136, 136, 136);
+    perspective-origin: 70.7125px 17px;
+    transform-origin: 70.7125px 17px;
+    border: 0px none rgb(136, 136, 136);
+    font: normal normal 300 normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    outline: rgb(136, 136, 136) none 0px;
+}/*#DIV_1*/
+
+#UL_2 {
+    box-sizing: border-box;
+    color: rgb(136, 136, 136);
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    width: 126px;
+    column-rule-color: rgb(136, 136, 136);
+    perspective-origin: 63px 0px;
+    transform-origin: 63px 0px;
+    border: 0px none rgb(136, 136, 136);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(136, 136, 136) none 0px;
+    padding: 0px;
+}/*#UL_2*/
+
+#LI_3, #LI_5 {
+    box-sizing: border-box;
+    color: rgb(136, 136, 136);
+    float: left;
+    height: 32px;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    width: 42px;
+    column-rule-color: rgb(136, 136, 136);
+    perspective-origin: 21px 16px;
+    transform-origin: 21px 16px;
+    border: 0px none rgb(136, 136, 136);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    outline: rgb(136, 136, 136) none 0px;
+    padding: 0px 10px 0px 0px;
+}/*#LI_3, #LI_5*/
+
+#A_4 {
+    box-sizing: border-box;
+    color: rgb(0, 172, 189);
+    display: inline-block;
+    height: 32px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 100%;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 32px;
+    column-rule-color: rgb(0, 172, 189);
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    background: rgba(0, 0, 0, 0) url("http://www.senseslab.com/public/img/icon_twitter@2x.png") no-repeat scroll 0% 0% / 32px 32px padding-box border-box;
+    border: 0px none rgb(0, 172, 189);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    outline: rgb(0, 172, 189) none 0px;
+    overflow: hidden;
+    transition: all 0.5s ease 0s;
+}/*#A_4*/
+
+#A_6 {
+    box-sizing: border-box;
+    color: rgb(0, 172, 189);
+    display: inline-block;
+    height: 32px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 100%;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 32px;
+    column-rule-color: rgb(0, 172, 189);
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    background: rgba(0, 0, 0, 0) url("http://www.senseslab.com/public/img/icon_facebook@2x.png") no-repeat scroll 0% 0% / 32px 32px padding-box border-box;
+    border: 0px none rgb(0, 172, 189);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    outline: rgb(0, 172, 189) none 0px;
+    overflow: hidden;
+    transition: all 0.5s ease 0s;
+}/*#A_6*/
+
+#LI_7 {
+    box-sizing: border-box;
+    color: rgb(136, 136, 136);
+    float: left;
+    height: 34px;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    width: 42px;
+    column-rule-color: rgb(136, 136, 136);
+    perspective-origin: 21px 17px;
+    transform-origin: 21px 17px;
+    border: 0px none rgb(136, 136, 136);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    outline: rgb(136, 136, 136) none 0px;
+    padding: 0px 10px 0px 0px;
+}/*#LI_7*/
+
+#A_8 {
+    box-sizing: border-box;
+    color: rgb(0, 172, 189);
+    display: inline-block;
+    height: 34px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 100%;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 32px;
+    column-rule-color: rgb(0, 172, 189);
+    perspective-origin: 16px 17px;
+    transform-origin: 16px 17px;
+    background: rgba(0, 0, 0, 0) url("http://www.senseslab.com/public/img/icon_linkedin@2x.png") no-repeat scroll 0% 0% / 32px 34px padding-box border-box;
+    border: 0px none rgb(0, 172, 189);
+    font: normal normal normal normal 16px / 25.6px ff-meta-serif-web-pro, Georgia, serif;
+    list-style: none outside none;
+    outline: rgb(0, 172, 189) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 5px;
+    transition: all 0.5s ease 0s;
+}/*#A_8*/
+
